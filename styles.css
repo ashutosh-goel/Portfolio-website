@@ -19,21 +19,6 @@ body {
   .content {
     padding: 50px;
   }
-
-  .greet {
-    padding: 30px;
-    text-align: center;
-    font-size: x-large;
-    font-family: 'Times New Roman', Times, serif;
-
-  }
-
-  #home {
-    padding: 30px;
-    text-align: center;
-    font-size: x-large;
-    font-family: 'Times New Roman', Times, serif;
-  }
   
 .profile-img {
     width: 150px;
